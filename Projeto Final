@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>BahiBuu's Art Comms</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playwrite+ES:wght@100..400&display=swap">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .body{
+            font-family: "Playwrite ES", cursive;
+            font-weight: bold;
+            color: rgb(23, 4, 21);
+            background-color: #f1d5e2;
+        }
+        .title-2{
+          display: flex;
+          justify-content: center;
+          margin-top: 6rem;
+          margin-bottom: 6rem;
+        }
+
+        .Introduction{
+          display: flex;
+          justify-content: center;
+          margin-top: 6rem;
+          margin-bottom: 6rem;
+          margin-left: 6rem;
+          margin-right: 6rem;
+        }
+
+        .yes-and-no{
+           display: flex;
+           justify-content: space-around;
+           background-color: rgb(255, 254, 255);
+           margin-top: 8rem;
+           margin-bottom: 10rem; 
+        }
+
+        .card-div-1{
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 10rem;
+        }
+        .card-div-2{
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 10rem;
+        }
+        .header{
+            display:flex;
+            justify-content:center;
+            max-width: 100%;
+            background-color: #d878a5;
+        }
+
+        .footer{
+          display:flex;
+            justify-content:center;
+            max-width: 100%;
+            background-color: #d878a5;
+        }
+ 
+    </style>
+</head>
+<body class="body">
+    <header class="header"> 
+      <img src="https://media.discordapp.net/attachments/744227718488391931/1253395945333461163/9_Sem_Titulo_20240620140149.png?ex=6675b370&is=667461f0&hm=de1dec1d301c15df957955ba6a88d16352422bad0926144f639b5a081b5053b1&=&format=webp&quality=lossless" alt="" height="200rem">
+
+    <img src="https://media.discordapp.net/attachments/744227718488391931/1253483773018902598/10_Sem_Titulo_20240620195622.png?ex=6676053c&is=6674b3bc&hm=ad15a467285d7d8c207b716ee5fed227da34815a56a516f6f24f26787103e353&=&format=webp&quality=lossless&width=902&height=416" alt="" height="220rem">
+    </header>
+    <section>
+      <h2 class="title-2">Welcome to my humble home!</h1>
+
+      <div>
+        <h8 class="Introduction">
+          Hello, my name's Malu and i'm a digital artist & aspiring game designer! Go ahead and make yourself at home, i hope you manage to find somenthing you'll like. 
+        </h8>
+      </div>
+
+    </section>
+<section class="yes-and-no">
+    <div>
+        <h4> WILL do:</h4>
+        <p>Humans</p>
+        <p>Animals</p>
+        <p>Fandoms</p>
+        <p>Non-problematic Ships</p>
+        <p>Light Gore</p>
+    </div>
+
+    <div>
+        <h4>WON'T do:</h4>
+        <p>NSFW</p>
+        <p>Heavy Gore</p>
+        <p>Overall problematic stuff!</p>
+    </div>
+</section>
+   
+    
+<section class="card-div-1">
+    <div class="card" style="width: 18rem;">
+        <img src="https://bahibuucommeng.carrd.co/assets/images/gallery01/5ea6b500.jpg?v=381ba5fa" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Sketch Comissions</h5>
+          <p class="card-text">Bust - $3</p>
+          <p class="card-text">Half Body - $6</p>
+          <p class="card-text">Full Body - $9</p>
+
+          <a href="C:\Users\user\Desktop\Malu\Programação\Comission Site\2 Projeto Final.html" class="btn btn-primary">Buy here!</a>
+        </div>
+      </div>
+
+      <div class="card" style="width: 18rem;">
+        <img src="https://media.discordapp.net/attachments/744227718488391931/1253398840892067890/4_Sem_Titulo.png?ex=667707a2&is=6675b622&hm=1f14f5bdfbb69dc3ad5700441a70ef7fe95ec3ca7b4ef79d0898190c370be6ed&=&format=webp&quality=lossless&width=361&height=416" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Flat Color Comissions</h5>
+          <p class="card-text">Bust - $10</p>
+          <p class="card-text">Half Body - $15</p>
+          <p class="card-text">Full Body - $20</p>
+
+          <a href="C:\Users\user\Desktop\Malu\Programação\Comission Site\3 Projeto Final.html" class="btn btn-primary">Buy here!</a>
+        </div>
+      </div>
+
+      <div class="card" style="width: 18rem;">
+        <img src="https://media.discordapp.net/attachments/744227718488391931/1253793722307711205/312_Sem_Titulo_20230311161007.png?ex=667725e5&is=6675d465&hm=5143088e1d3d14981911b9f5e0c453a6a7499b54921d0276872f8761ee800983&=&format=webp&quality=lossless&width=312&height=415" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Shaded Comissions</h5>
+          <p class="card-text">Bust - $20</p>
+          <p class="card-text">Half Body - $25</p>
+          <p class="card-text">Full Body - $30</p>
+
+          <a href="C:\Users\user\Desktop\Malu\Programação\Comission Site\4 Projeto Final.html" class="btn btn-primary">Buy here!</a>
+        </div>
+
+</section>
+<section class="card-div-2">
+    <div class="card" style="width: 18rem;">
+        <img src="https://bahibuucommeng.carrd.co/assets/images/gallery01/14ea1df6.png?v=381ba5fa" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Chibi Comissions</h5>
+          <p class="card-text">Icon - $5</p>
+          <p class="card-text">Full Body - $10</p>
+
+          <a href="C:\Users\user\Desktop\Malu\Programação\Comission Site\5 Projeto Final.html" class="btn btn-primary">Buy here!</a>
+        </div>
+ 
+        </div>
+      <div class="card" style="width: 18rem;">
+        <img src="https://media.discordapp.net/attachments/744227718488391931/1253398848878149653/20231216_174525.png?ex=667707a4&is=6675b624&hm=bbe4ea6b0834da7afdb6582a4e415a14a594733a32fc396eedf546e51f953da1&=&format=webp&quality=lossless&width=376&height=416" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">+ $2 for every new character.</h5>
+        </div>
+      </div>
+      <div class="card" style="width: 18rem;">
+        <img src="https://media.discordapp.net/attachments/744227718488391931/1253398922827923567/SPOILER_581_Sem_Titulo_20240220145225.png?ex=667707b6&is=6675b636&hm=2be10281c4db4c5de1d12f97ad6925411d580effa57760df766ec455f0c692e3&=&format=webp&quality=lossless&width=588&height=416" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">+ $4 for background.</h5>
+        </div>
+</section>
+
+<div class="footer">
+  <footer>
+
+   <img src="https://media.discordapp.net/attachments/744227718488391931/1253483772582821958/10_Sem_Titulo_20240620195329.png?ex=6676053b&is=6674b3bb&hm=16eb27ef7a0a16a1a7fc9306fcb2259e932493a35ab801ed9ce95d179b666302&=&format=webp&quality=lossless&width=902&height=416" alt="" height="100rem">
+
+  </footer>
+</div>
+</body>
+</html>
